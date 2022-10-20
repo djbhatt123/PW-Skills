@@ -5,3 +5,5 @@ git
 >>create a file in the folder
 >>for tracking the file do {{"git add file_name"}}
 >>for commiting the file do  {{git commit -m "message"}}
+>>for knowing the previous commit {{git log}}
+>> for knowing what is upload on the previous commit{{git show commit_number}}
