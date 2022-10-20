@@ -1,5 +1,7 @@
-#include<iostream>
-using namespace std;
-int main(){
-cout<<"HELLO WORLD"<<Endl;
-return 0;}
+git
+>> laptop to github.com
+>>{{ git status }}of the folder on the laptop
+>> {{git init }}
+>>create a file in the folder
+>>for tracking the file do {{"git add file_name"}}
+>>for commiting the file do  {{git commit -m "message"}}
